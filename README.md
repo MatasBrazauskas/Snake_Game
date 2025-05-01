@@ -32,8 +32,7 @@ I wanted to build something visual and interactive while reinforcing my understa
 
 ## 📸 Screenshots
 
-![image](https://github.com/user-attachments/assets/88c82bb2-c594-41c7-be9b-559c7225ea33)
-![image](https://github.com/user-attachments/assets/fb6f9949-b50a-4f6d-93f4-dd240cf7a969)
-![image](https://github.com/user-attachments/assets/273c5ec8-0791-4b94-80fd-6a6f81b5a632)
+![image](https://github.com/user-attachments/assets/0e893d7c-fbcc-4180-99d7-7e34702ac124)
+
 
 
