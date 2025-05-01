@@ -32,7 +32,8 @@ I wanted to build something visual and interactive while reinforcing my understa
 
 ## 📸 Screenshots
 
-> *(Replace with real screenshots once available)*
+![image](https://github.com/user-attachments/assets/88c82bb2-c594-41c7-be9b-559c7225ea33)
+![image](https://github.com/user-attachments/assets/fb6f9949-b50a-4f6d-93f4-dd240cf7a969)
+![image](https://github.com/user-attachments/assets/273c5ec8-0791-4b94-80fd-6a6f81b5a632)
 
-![Screenshot 1](https://github.com/user-attachments/assets/example1.png)
-![Screenshot 2](https://github.com/user-attachments/assets/example2.png)
+
