@@ -1,12 +1,12 @@
-# 🐍 Snake Game in C++ with SDL2
+# 🐍 Snake Game in C++ with Raylib
 
-A classic Snake Game implemented using **C++** and **SDL2**. This project helped me explore graphics programming, game loops, and responsive input handling in a fun and visual way.
+A classic Snake Game implemented using **C++** and **Raylib**. This project helped me explore graphics programming, game loops, and responsive input handling in a fun and visual way.
 
 ---
 
 ## 📌 Why I Chose This Project
 
-I wanted to build something visual and interactive while reinforcing my understanding of **game loops**, **timing**, and **real-time input**. The Snake game was a perfect candidate for learning how to manage dynamic elements on screen using **SDL2**.
+I wanted to build something visual and interactive while reinforcing my understanding of **game loops**, **timing**, and **real-time input**. The Snake game was a perfect candidate for learning how to manage dynamic elements on screen using **Raylib**.
 
 ---
 
@@ -15,8 +15,8 @@ I wanted to build something visual and interactive while reinforcing my understa
 - 🎮 Implemented a complete **game loop** with real-time updates and rendering
 - 🔄 Used **timing and frame control** to ensure smooth and consistent gameplay
 - 🧱 Designed a **grid-based system** for the snake and food
-- 🎯 Handled **keyboard input** for movement using SDL events
-- 🧪 Practiced working with SDL2 setup and rendering APIs
+- 🎯 Handled **keyboard input** for movement using Raylib events
+- 🧪 Practiced working with Raylib setup and rendering APIs
 
 ---
 
